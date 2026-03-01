@@ -67,5 +67,5 @@ mvn test
 
 
 ### Información útil
-- [docs/workflow.md]() Sugerencia del flujo de trabajo dentro de GIT. 
+- [workflow](docs/workflow.md): Sugerencia del flujo de trabajo dentro de GIT. 
 
