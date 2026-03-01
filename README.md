@@ -4,6 +4,10 @@ Este repositorio es un ejemplo para ver cómo podría usarse Git para la organiz
 es ver qué información mínima debería de tener el repositorio y marcar varias ideas de flujos de trabajo para facilitar el trabajo
 entre los alumnos.
 
+<p align="center">
+  <img src="logo.png" width="300"/>
+</p>
+
 ## Integrantes
 - José Antonio García Díaz <joseantonio.garcia8@um.es> (Grupo 2)
 
