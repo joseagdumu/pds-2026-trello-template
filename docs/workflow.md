@@ -1,7 +1,7 @@
 # Flujo de trabajo basado en Issues y Pull Requests
 Este documento describe un posible flujo de trabajo recomendado para organizar el desarrollo del proyecto en GitHub.
 
-En general, el flujo de trabajo recomendado es:
+Una vez especificadas todas o algunas de las historias de usuario, el flujo de trabajo recomendado es:
 ```
 1 Issue → 1 Rama → 1 Pull Request → Merge en main
 ```
@@ -19,6 +19,8 @@ Puede ser una funcionalidad nueva, un error detectado, o una mejora técnica, po
 (1) Qué se quiere hacer, (2) Por qué se quiere hacer y (3) Cuáles son los criterios de aceptación; es decir, cuándo se considera terminado.
 
 Las ventajas de usar issues es que permiten asignar responsabilidad, disponer de un mecanismo de trazabilidad y, además relacionar código con funcionalidades concretas
+
+**Ejemplo: **. Puedes ver un ejemplo de issue para el CRUD del tablero [aquí](https://github.com/joseagdumu/pds-2026-trello-template/issues/1)
 
 ## 2. ¿Qué es un Pull Request (PR)?
 
