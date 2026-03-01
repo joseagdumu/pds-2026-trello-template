@@ -68,4 +68,4 @@ mvn test
 
 ### Información útil
 - [workflow](docs/workflow.md): Sugerencia del flujo de trabajo dentro de GIT. 
-
+- [workflow](docs/deliverables.md): Items de documentación a entregar en la práctica y ejemplos. 
