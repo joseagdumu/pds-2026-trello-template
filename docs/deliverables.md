@@ -41,3 +41,12 @@ para gestionar mi espacio de trabajo colaborativo.
 - Se puede eliminar el tablero.
 - Solo el propietario puede eliminarlo.
 ```
+
+## 2. Modelo del dominio
+(pending)
+
+## 3. Documentación
+(pending)
+
+## 4. Test suite
+(pending)
