@@ -10,7 +10,7 @@ las funcionalidades implementadas.
 
 Ejemplo:
 
-- Como *usuario propietario de un tablero** quiero *bloquear el tablero temporalmente* para *impedir la creación de nuevas tarjetas*.
+- Como *usuario propietario de un tablero* quiero *bloquear el tablero temporalmente* para *impedir la creación de nuevas tarjetas*.
 
 Las historias de usuario pueden almacenarse:
 
