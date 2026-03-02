@@ -18,5 +18,5 @@ El proyecto backend se generó utilizando [https://start.spring.io](https://star
 - Spring Boot Starter Test
 
 <p align="center">
-  <img src="docs/backend-springboot.png" />
+  <img src="./backend-springboot.png" />
 </p>
