@@ -20,7 +20,7 @@ Puede ser una funcionalidad nueva, un error detectado, o una mejora técnica, po
 
 Las ventajas de usar issues es que permiten asignar responsabilidad, disponer de un mecanismo de trazabilidad y, además relacionar código con funcionalidades concretas
 
-**Ejemplo: **. Puedes ver un ejemplo de issue para el CRUD del tablero [aquí](https://github.com/joseagdumu/pds-2026-trello-template/issues/1)
+**Ejemplo:**. Puedes ver un ejemplo de issue para el CRUD del tablero [aquí](https://github.com/joseagdumu/pds-2026-trello-template/issues/1)
 
 ## 2. ¿Qué es un Pull Request (PR)?
 
@@ -33,8 +33,10 @@ Un flujo de trabajo puede ser:
 4. Revisar el código de la Pull Request.
 5. Fusionar con la rama principal.
 
+**Ejemplo:**. Puedes ver un ejemplo de PR [aquí](https://github.com/joseagdumu/pds-2026-trello-template/pull/3)
 
-## Ejemplo
+
+## 3. Ejemplo
 Vamos a implementar el método ```GET```del tablero.
 
 1. Creamos el issue: Implementar GET ```/boards```, y obtiene el ID 12.
