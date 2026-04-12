@@ -1,0 +1,16 @@
+# Maven
+target/
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
